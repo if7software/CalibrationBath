@@ -1,0 +1,15 @@
+D:\Users\Grzesioff\Documents\Visual Studio 2010\Projects\CalibrationBath\CalibrationBath\bin\Debug\Fluke7430.exe.config
+D:\Users\Grzesioff\Documents\Visual Studio 2010\Projects\CalibrationBath\CalibrationBath\bin\Debug\Fluke7430.exe.manifest
+D:\Users\Grzesioff\Documents\Visual Studio 2010\Projects\CalibrationBath\CalibrationBath\bin\Debug\Fluke7430.application
+D:\Users\Grzesioff\Documents\Visual Studio 2010\Projects\CalibrationBath\CalibrationBath\bin\Debug\Fluke7430.exe
+D:\Users\Grzesioff\Documents\Visual Studio 2010\Projects\CalibrationBath\CalibrationBath\bin\Debug\Fluke7430.pdb
+D:\Users\Grzesioff\Documents\Visual Studio 2010\Projects\CalibrationBath\CalibrationBath\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Grzesioff\Documents\Visual Studio 2010\Projects\CalibrationBath\CalibrationBath\obj\x86\Debug\CalibrationBath.OknoGlowne.resources
+D:\Users\Grzesioff\Documents\Visual Studio 2010\Projects\CalibrationBath\CalibrationBath\obj\x86\Debug\CalibrationBath.Properties.Resources.resources
+D:\Users\Grzesioff\Documents\Visual Studio 2010\Projects\CalibrationBath\CalibrationBath\obj\x86\Debug\CalibrationBath.Ustawienia.resources
+D:\Users\Grzesioff\Documents\Visual Studio 2010\Projects\CalibrationBath\CalibrationBath\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\Grzesioff\Documents\Visual Studio 2010\Projects\CalibrationBath\CalibrationBath\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\Grzesioff\Documents\Visual Studio 2010\Projects\CalibrationBath\CalibrationBath\obj\x86\Debug\Fluke7430.exe.manifest
+D:\Users\Grzesioff\Documents\Visual Studio 2010\Projects\CalibrationBath\CalibrationBath\obj\x86\Debug\Fluke7430.application
+D:\Users\Grzesioff\Documents\Visual Studio 2010\Projects\CalibrationBath\CalibrationBath\obj\x86\Debug\Fluke7430.exe
+D:\Users\Grzesioff\Documents\Visual Studio 2010\Projects\CalibrationBath\CalibrationBath\obj\x86\Debug\Fluke7430.pdb
